@@ -1,1 +1,1 @@
-console.log('Hello from me')
+console.log('Hello from Git, CI/CD Pipeline and Docker')
